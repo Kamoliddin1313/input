@@ -29,6 +29,7 @@ const Salom = () => {
       </form>
       <h1 style={style}>Hi Kamoliddin</h1>
       <button onClick={()=>setColored(!colored)}>ok</button>
+      <ins>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic beatae cum repudiandae! Deserunt ea recusandae distinctio laudantium, quo laborum sapiente.</ins>
     </div>
   );
 };
